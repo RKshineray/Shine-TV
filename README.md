@@ -1,2 +1,0 @@
-# Shine-TV
-Streaming
