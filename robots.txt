@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://shinetv.com.br/sitemap.xml
